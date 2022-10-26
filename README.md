@@ -1,6 +1,6 @@
 # Formula 1 racing driver details scraper
 
-**Project sourced from the following video **
+**Project sourced from the following video**
 [Formula1 webscraper video](https://www.youtube.com/watch?v=l9DPeGeWNYY)
 [Formula1 webscraper Blog](https://raddy.dev/blog/build-a-simple-web-scraper-using-node-js-fetch-and-cheerio/?utm_source=blog&utm_medium=article)
 
